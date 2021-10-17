@@ -112,7 +112,7 @@
   <div id="home" class="slider-area">
     <div class="bend niceties preview-2">
       <div id="ensign-nivoslider" class="slides">
-        <img src="img2/banner 1.png" alt="" title="#slider-direction-1">
+        <img src="img2/mainbanner1.png" alt="" title="#slider-direction-1">
         <img src="img2/digitalbanner1.png" alt="" title="#slider-direction-2" />
         <img src="img2/trainingbanner1.png" alt="" title="#slider-direction-3" />
       </div>
